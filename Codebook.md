@@ -1,6 +1,6 @@
 ==================================================================
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
+#Human Activity Recognition Using Smartphones Dataset
+##Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -69,7 +69,7 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-Activity Labels
+##Activity Labels
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
@@ -77,6 +77,6 @@ Activity Labels
 5 STANDING
 6 LAYING
 
-Variable Labels
+##Variable Labels
 "Activity","SubjectID","timeBodyAccelerometer-Mean-X","timeBodyAccelerometer-Mean-Y","timeBodyAccelerometer-Mean-Z","timeBodyAccelerometer-STD-X","timeBodyAccelerometer-STD-Y","timeBodyAccelerometer-STD-Z","timeGravityAccelerometer-Mean-X","timeGravityAccelerometer-Mean-Y","timeGravityAccelerometer-Mean-Z","timeGravityAccelerometer-STD-X","timeGravityAccelerometer-STD-Y","timeGravityAccelerometer-STD-Z","timeBodyAccelerometerJerk-Mean-X","timeBodyAccelerometerJerk-Mean-Y","timeBodyAccelerometerJerk-Mean-Z","timeBodyAccelerometerJerk-STD-X","timeBodyAccelerometerJerk-STD-Y","timeBodyAccelerometerJerk-STD-Z","timeBodyGyroscope-Mean-X","timeBodyGyroscope-Mean-Y","timeBodyGyroscope-Mean-Z","timeBodyGyroscope-STD-X","timeBodyGyroscope-STD-Y","timeBodyGyroscope-STD-Z","timeBodyGyroscopeJerk-Mean-X","timeBodyGyroscopeJerk-Mean-Y","timeBodyGyroscopeJerk-Mean-Z","timeBodyGyroscopeJerk-STD-X","timeBodyGyroscopeJerk-STD-Y","timeBodyGyroscopeJerk-STD-Z","timeBodyAccelerometerMagnitude-Mean","timeBodyAccelerometerMagnitude-STD","timeGravityAccelerometerMagnitude-Mean","timeGravityAccelerometerMagnitude-STD","timeBodyAccelerometerJerkMagnitude-Mean","timeBodyAccelerometerJerkMagnitude-STD","timeBodyGyroscopeMagnitude-Mean","timeBodyGyroscopeMagnitude-STD","timeBodyGyroscopeJerkMagnitude-Mean","timeBodyGyroscopeJerkMagnitude-STD","frequencyBodyAccelerometer-Mean-X","frequencyBodyAccelerometer-Mean-Y","frequencyBodyAccelerometer-Mean-Z","frequencyBodyAccelerometer-STD-X","frequencyBodyAccelerometer-STD-Y","frequencyBodyAccelerometer-STD-Z","frequencyBodyAccelerometerJerk-Mean-X","frequencyBodyAccelerometerJerk-Mean-Y","frequencyBodyAccelerometerJerk-Mean-Z","frequencyBodyAccelerometerJerk-STD-X","frequencyBodyAccelerometerJerk-STD-Y","frequencyBodyAccelerometerJerk-STD-Z","frequencyBodyGyroscope-Mean-X","frequencyBodyGyroscope-Mean-Y","frequencyBodyGyroscope-Mean-Z","frequencyBodyGyroscope-STD-X","frequencyBodyGyroscope-STD-Y","frequencyBodyGyroscope-STD-Z","frequencyBodyAccelerometerMagnitude-Mean","frequencyBodyAccelerometerMagnitude-STD","frequencyBodyAccelerometerJerkMagnitude-Mean","frequencyBodyAccelerometerJerkMagnitude-STD","frequencyBodyGyroscopeMagnitude-Mean","frequencyBodyGyroscopeMagnitude-STD","frequencyBodyGyroscopeJerkMagnitude-Mean","frequencyBodyGyroscopeJerkMagnitude-STD"
 
